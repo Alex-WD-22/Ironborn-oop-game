@@ -1,5 +1,15 @@
 #board {
+    position: relative;
     background-color: rgb(12, 71, 119);
     /* outline: 1px solid blue; */
     height: 100vh;
+}
+
+.player {
+    background-color: rgb(68, 247, 23);
+    height: 20px;
+    width: 120px;
+    position: absolute;
+    
+  
 }
